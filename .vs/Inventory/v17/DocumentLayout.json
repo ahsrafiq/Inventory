@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\controllers\\salesorderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\salesorderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\controllers\\salesorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\salesorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\views\\salesorders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\salesorders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\views\\salesorderdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\salesorderdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\models\\salesorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\salesorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|c:\\users\\ahsaan rafiq\\source\\repos\\inventory\\inventory\\models\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98607099-8AEB-4BC9-A784-D58E8E9C4D3D}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Inventory\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Inventory\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:54:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Inventory\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Models\\Item.cs",
+              "RelativeToolTip": "Inventory\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:42:21.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Views\\SalesOrderDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventory\\Views\\SalesOrderDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Views\\SalesOrderDetails\\Create.cshtml",
+              "RelativeToolTip": "Inventory\\Views\\SalesOrderDetails\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T09:25:29.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventory\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "Inventory\\Views\\Items\\Create.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T09:03:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Views\\SalesOrders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventory\\Views\\SalesOrders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Views\\SalesOrders\\Create.cshtml",
+              "RelativeToolTip": "Inventory\\Views\\SalesOrders\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T09:03:21.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Controllers\\SalesOrdersController.cs",
+              "RelativeDocumentMoniker": "Inventory\\Controllers\\SalesOrdersController.cs",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Controllers\\SalesOrdersController.cs",
+              "RelativeToolTip": "Inventory\\Controllers\\SalesOrdersController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:37:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesOrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Controllers\\SalesOrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Inventory\\Controllers\\SalesOrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Controllers\\SalesOrderDetailsController.cs",
+              "RelativeToolTip": "Inventory\\Controllers\\SalesOrderDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:27:56.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Models\\SalesOrderDetail.cs",
+              "RelativeDocumentMoniker": "Inventory\\Models\\SalesOrderDetail.cs",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Models\\SalesOrderDetail.cs",
+              "RelativeToolTip": "Inventory\\Models\\SalesOrderDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:48:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Models\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "Inventory\\Models\\SalesOrder.cs",
+              "ToolTip": "C:\\Users\\Ahsaan Rafiq\\source\\repos\\Inventory\\Inventory\\Models\\SalesOrder.cs",
+              "RelativeToolTip": "Inventory\\Models\\SalesOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:48:29.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
